@@ -1,5 +1,5 @@
 {
-  "name": "dnc-boardtasks-back",
+  "name": "boardtasks-back-end",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -17,6 +17,7 @@
     "mongoose-to-swagger": "^1.4.0",
     "morgan": "~1.9.1",
     "swagger-autogen": "^2.23.1",
+    "swagger-ui": "^5.9.0",
     "swagger-ui-express": "^4.6.2"
   }
 }
