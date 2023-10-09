@@ -22,3 +22,5 @@ Antes de tudo, você precisa ter certeza de que baixou todas as dependências an
 3.  Depois é só executar o comando `npm install` no terminal na pasta raiz do projeto.
 4.  Em seguida, você pode executar o comando `npm run dev` no terminal na pasta raiz do projeto, para iniciar o servidor back-end.
 5.  Depois entre na documentação da API é só acessar em seu navegador o endereço `http://localhost:4000/`
+
+teste
