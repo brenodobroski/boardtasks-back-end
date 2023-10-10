@@ -20,6 +20,7 @@
     "string": "^3.3.3",
     "swagger-autogen": "^2.23.1",
     "swagger-ui": "^5.9.0",
-    "swagger-ui-express": "^4.6.2"
+    "swagger-ui-express": "^4.6.2",
+    "validator": "^13.11.0"
   }
 }
